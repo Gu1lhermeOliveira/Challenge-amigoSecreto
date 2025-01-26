@@ -1,9 +1,10 @@
 <h1>Jogo do Amigo Secreto</h1>
 
-<h2> Link do Projeto Ao vivo</h2>
+<h3> Link do Projeto Ao vivo</h3>
+
 <p>https://challenge-amigo-secreto-6816h7w53-gu1lhermeoliveiras-projects.vercel.app/</p>
+
 <h2>🎯 Sobre</h2>
-Descrição
 
 <p>Esta é uma aplicação web interativa para realizar sorteios de amigo secreto. Ela permite adicionar nomes de participantes, exibir a lista de amigos cadastrados, sortear um nome aleatório e reiniciar o sorteio. A interface foi desenvolvida de maneira simples e intuitiva, utilizando JavaScript para toda a lógica de interatividade.</p>
 
@@ -44,6 +45,6 @@ Descrição
 
 <p>Guilherme Dias de Oliveira</p>
 <div align="">
-  <img src="/assets/guilherme.png" width="195px">
+  <img src="assets/guilherme.jpg" width="195px">
 
 </div>
