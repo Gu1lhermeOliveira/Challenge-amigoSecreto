@@ -1,7 +1,7 @@
 <h1>Jogo do Amigo Secreto</h1>
 
 <h2>🎯 Sobre</h2>
-<p>Projeto Utilizado nos cursos de lógica de Programação da Alura.</p>
+<p>Challenge proposto pela Alura para testar nossos conhecimentos nos conceitos aprendidos nas aulas dos cursos de lógica de Programação.</p>
 
 <h3>🚀 Tecnologias</h3>
 
@@ -16,6 +16,6 @@
 
 <p>Guilherme Dias de Oliveira</p>
 <div align="">
-  <img src="amigosecreto/assets/guilherme.png" width="195px">
+  <img src="/assets/guilherme.p" width="195px">
 
 </div>
