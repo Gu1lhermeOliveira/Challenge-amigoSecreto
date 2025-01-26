@@ -43,7 +43,7 @@
    
 <h2>Time</h2>
 
-<p>Guilherme Dias de Oliveira</p>
+<h4>Guilherme Dias de Oliveira</h4>
 <div align="">
   <img src="assets/guilherme.jpg" width="195px">
 
