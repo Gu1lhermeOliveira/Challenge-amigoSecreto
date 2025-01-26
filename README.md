@@ -8,7 +8,7 @@
 
 <p>Esta é uma aplicação web interativa para realizar sorteios de amigo secreto. Ela permite adicionar nomes de participantes, exibir a lista de amigos cadastrados, sortear um nome aleatório e reiniciar o sorteio. A interface foi desenvolvida de maneira simples e intuitiva, utilizando JavaScript para toda a lógica de interatividade.</p>
 
-<h2>Funcionalidades</h2>
+<h2>🕹️ Funcionalidades</h2>
 
 - Adicionar um amigo:
 
