@@ -2,7 +2,7 @@
 
 <h3> Link do Projeto Ao vivo</h3>
 
-<p>https://challenge-amigo-secreto-6816h7w53-gu1lhermeoliveiras-projects.vercel.app/</p>
+<p>https://challenge-amigo-secreto-lime.vercel.app/</p>
 
 <h2>🎯 Sobre</h2>
 
